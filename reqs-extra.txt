@@ -1,0 +1,6 @@
+notebook
+PyPDF2
+pdf2image
+camelot-py[cv]
+boto3
+textract-trp
