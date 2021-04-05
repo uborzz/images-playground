@@ -1,6 +1,15 @@
 # playground env
 personal multipurpose python environment for image treating in ubuntu 20.04 and python 3.8.5 with vscode
 
+### whats installed
+* qt 5 (in system)
+* tesseract 4 (in system)
+* poppler and ghostscript (in system)
+* opencv contrib 4.5 (in venv)
+* jupyter notebook (in venv)
+* pyqt link to base installation
+* lots of libs/wrapers in venv (check reqs files)
+
 ## binaries
 In case no binary deps already installed. This installs qt, tesseract, poppler and ghostscript in the system
 
