@@ -4,3 +4,5 @@ pdf2image
 camelot-py[cv]
 boto3
 textract-trp
+python-dotenv
+fuzzywuzzy
